@@ -966,27 +966,27 @@ import {
       image: webAgency,
       source_code_link: "https://www.jesswardbalaoy.com/websites/digisolve-website/index.html",
     },
-    {
-      name: "Product Page",
-      description:
-        "A simple product page with great animations and sliders. Site offers five different color styles that suites the users preference.",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "bootstrap",
-          color: "green-text-gradient",
-        },
-        {
-          name: "jquery",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: webProductLandingPage,
-      source_code_link: "https://www.jesswardbalaoy.com/product-landing-page/index.html",
-    },
+    // {
+    //   name: "Product Page",
+    //   description:
+    //     "A simple product page with great animations and sliders. Site offers five different color styles that suites the users preference.",
+    //   tags: [
+    //     {
+    //       name: "html",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "bootstrap",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "jquery",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: webProductLandingPage,
+    //   source_code_link: "https://www.jesswardbalaoy.com/product-landing-page/index.html",
+    // },
   ];
   
   export { services, technologies, moretechies, experiences, testimonials, projects };
